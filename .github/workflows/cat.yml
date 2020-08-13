@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Run test curl
+    - name: Get random cat
       run: | 
         sh ./cat.sh
         git push "https://CatBot:${{ secrets.GITHUB_TOKEN }}@github.com/Gaunsessa/Gaunsessa.git"
