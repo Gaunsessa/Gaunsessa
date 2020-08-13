@@ -1,5 +1,5 @@
 #!/bin/bash
-input="test.txt"
+input="README.md"
 while IFS= read -r line
 do
     if [ "$line" = "![Test](http://203.214.44.222:8000/cat/)" ]; then
