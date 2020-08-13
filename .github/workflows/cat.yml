@@ -1,6 +1,8 @@
-name: TEST
+name: cat
 
 on:
+  schedule:
+    - cron: '* * * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,5 +14,5 @@ jobs:
 
     - name: Run test curl
       run: | 
-        sh ./test.sh
+        sh ./cat.sh
         git push "https://CatBot:${{ secrets.GITHUB_TOKEN }}@github.com/Gaunsessa/Gaunsessa.git"
