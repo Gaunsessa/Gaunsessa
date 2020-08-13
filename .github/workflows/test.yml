@@ -1,0 +1,14 @@
+name: TEST
+
+on:
+  workflow_dispatch:
+
+jobs:
+  do-the-good:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Run test curl
+      run: curl 203.214.44.222:8000/cat
