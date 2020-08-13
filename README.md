@@ -1,1 +1,1 @@
-![CAT](/cats/yes.jpg)
+![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/swagcat.png)
