@@ -11,4 +11,4 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Run test curl
-      run: test.sh
+      run: sh ./test.sh
