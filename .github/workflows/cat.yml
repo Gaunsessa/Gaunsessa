@@ -15,4 +15,4 @@ jobs:
     - name: Get random cat
       run: | 
         bash ./cat.sh
-        git push "https://CatBot:${{ secrets.GITHUB_TOKEN }}@github.com/Gaunsessa/testoboingo.git"
+        git push "https://CatBot:${{ secrets.GITHUB_TOKEN }}@github.com/Gaunsessa/Gaunsessa.git"
