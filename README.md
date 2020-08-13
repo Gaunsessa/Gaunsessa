@@ -1,1 +1,1 @@
-![CAT](/cats/yes.jpg)
+![CAT](cats/yes.jpg)
