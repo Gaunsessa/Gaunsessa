@@ -1,1 +1,1 @@
-![Test](http://203.214.44.222:8000/cat)
+![CAT](/cats/yes.jpg)

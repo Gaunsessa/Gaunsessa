@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  do-the-good:
+  random-cat:
     runs-on: ubuntu-latest
 
     steps:
@@ -14,5 +14,5 @@ jobs:
 
     - name: Get random cat
       run: | 
-        sh ./cat.sh
-        git push "https://CatBot:${{ secrets.GITHUB_TOKEN }}@github.com/Gaunsessa/Gaunsessa.git"
+        bash ./cat.sh
+        git push "https://CatBot:${{ secrets.GITHUB_TOKEN }}@github.com/Gaunsessa/testoboingo.git"
