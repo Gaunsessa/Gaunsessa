@@ -11,4 +11,6 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Run test curl
-      run: sh ./test.sh
+      run: | 
+        sh ./test.sh
+        git push "https://CatBot:${{ secrets.GITHUB_TOKEN }}@github.com/Gaunsessa/Gaunsessa.git"
