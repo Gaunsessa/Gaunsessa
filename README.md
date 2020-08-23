@@ -1,1 +1,1 @@
-![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/bread.jpg)
+![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/swagcat.png)
