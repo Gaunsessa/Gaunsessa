@@ -1,3 +1,1 @@
-<a href="http://124.148.127.206:1273">
-    <img src="http://124.148.127.206:1273" height="420" width="auto">
-</a>
+![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/smeeeeg.jpg)
