@@ -1,1 +1,1 @@
-![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/pringles.png)
+<img src="124.148.127.206:1273">
