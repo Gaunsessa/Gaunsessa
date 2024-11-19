@@ -1,4 +1,4 @@
 
 😳Funny Cat😳
 
-![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/yes.jpg)
+![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/tong.png)
