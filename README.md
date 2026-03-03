@@ -3,4 +3,4 @@ Angus - [ef.je](https://ef.je)
 
 Here is a cat:
 
-![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/yes.jpg)
+![CAT](https://github.com/Gaunsessa/Gaunsessa/blob/master/cats/bread.jpg)
